@@ -1,0 +1,1 @@
+We have implemented the scope_table class with dynamic bucket size and implemented insertion, lookup and deletion of symbols using a hashtable with forward chaining. We have completed the destructor which frees all the allocated memory safely, moreover, currently the print_scope_table() prints the scope ID only.
