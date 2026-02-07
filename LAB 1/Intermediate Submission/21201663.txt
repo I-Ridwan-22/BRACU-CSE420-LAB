@@ -1,0 +1,1 @@
+We wrote the regular expressions for whitespace and newline, as well as for id, float, and integers as per the requirements. In the rules and actions section, we wrote all the necessary patterns and their corresponding actions according to the instructions of the spec file, and set the pattern and action for id last. Thus, we have completed all the given tasks for the Lex file.
