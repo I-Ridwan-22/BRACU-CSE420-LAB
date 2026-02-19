@@ -1,0 +1,1 @@
+We have implemented temp-variable generation and code emission for expressions (constants, variables, arrays, binary and unary operations). Also, most statement-level and control-flow code generation is still unimplemented.
